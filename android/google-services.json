@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272764470989",
+    "project_id": "nkx-projects",
+    "storage_bucket": "nkx-projects.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272764470989:android:ff1ea8af23efb9ff0a4b84",
+        "android_client_info": {
+          "package_name": "com.health_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272764470989-0sa5c805ao642v8r9oh3a5g0l25ji4ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA28vU8KlMMKy9xmDQdq6111A_VcjI5nCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272764470989-0sa5c805ao642v8r9oh3a5g0l25ji4ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
